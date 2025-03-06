@@ -1,2 +1,2 @@
-# LinkedList-C-
+# LinkedList-C++
 I am learning DSA
